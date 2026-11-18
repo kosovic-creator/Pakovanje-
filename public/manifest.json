@@ -3,18 +3,18 @@
   "name": "Spisak za putovanje",
   "icons": [
     {
-      "src": "travel-icon.svg",
+      "src": "travel-icon.svg?v=2",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
     },
     {
-      "src": "travel-icon-192.png",
+      "src": "travel-icon-192.png?v=2",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "travel-icon-512.png",
+      "src": "travel-icon-512.png?v=2",
       "type": "image/png",
       "sizes": "512x512"
     }
